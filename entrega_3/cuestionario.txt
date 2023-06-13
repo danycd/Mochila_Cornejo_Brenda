@@ -1,0 +1,9 @@
+- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+    Las limitaciones en la disponibilidad y compatibilidad de compiladores, bibliotecas, API y arquitecturas de hardware pueden hacer que un lenguaje de programación solo pueda utilizarse en algunos sistemas operativos y no en otros.
+
+- ¿Qué tipo de máquina virtual es virtualBox?
+    VirtualBox es una máquina virtual de tipo 2, también conocida como hypervisor de nivel de software.
+
+- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+    Si una máquina virtual se rompe, generalmente no afecta a las demás máquinas virtuales instaladas. Cada máquina virtual se ejecuta de manera aislada en su propio entorno virtualizado, lo que significa que tienen su propio sistema operativo y recursos asignados. 
+    
